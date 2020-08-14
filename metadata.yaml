@@ -1,0 +1,27 @@
+_repo: The-Bombay-City-Police-A-Historical-Sketch-1672-1916_62798
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edwardes, S. M. (Stephen Meredyth)
+    alias: Edwardes, Stephen Meredyth
+    birthdate: 1873
+    deathdate: 1927
+    gutenberg_agent_id: '3294'
+    url: http://www.gutenberg.org/2009/agents/3294
+description: ''
+gutenberg_issued: '2020-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62798'
+  lccn: '24025542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Police -- India -- Mumbai'
+- !lcsh 'Crime -- India -- Mumbai'
+- GITenberg
+title: 'The Bombay City Police: A Historical Sketch, 1672-1916'
+url: http://www.gutenberg.org/ebooks/62798
